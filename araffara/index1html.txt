@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+ <head>
+      <title>araf</title>
+   <head>
+<body>
+<h2 style="background:blue;color:white;font-family: 'Poppins', sans-serif;"><b>Assalamualaikum. I'm Araf.</b></h2><b><br/><br/></b>
+<img width="300 px" src="file:///G:/araffara/nha.jpg"/><br/><br/>
+<b font-family: 'Poppins', sans-serif;>I am a student right now. I am at class 07. But in this lockdown,I am learning web devlopment. I don't like study so much . So, I  am trying to get motivation to study at least some hours a day. <br/><br/>
+
+My Idols are :
+<ul type="square">
+<li>Prophet Muhammad(SM)</li>
+<li>Mahmudul Hassan Shohag</li>
+<li>Ayman Sadiq</li>
+<li>Carryminati</li>
+</ul> etc...<br/><br/>
+
+
+I am not a very good student.I am a fool.Here is my classes and rolls below;
+<table border="1px">
+  <tr><td>Class</td><td>Roll</td></tr>
+ <tr><td>01</td><td>05</td></tr>
+<tr><td>02</td><td>07</td></tr>
+<tr><td>03</td><td>05</td></tr>
+<tr><td>04</td><td>12</td></tr>
+<tr><td>05</td><td>17</td></tr>
+<tr><td>06</td><td>13</td></tr>
+<tr><td>07</td><td>07</td></tr>
+</table> <br/><br/>
+My hobbies are gardening, reading books etc.<br/>
+My future goals are to be a proffesional Footballer,Hardworker,Technologist,Freelancer,Entrepreneur etc. My world is so big.
+<br/><br/>
+Till now , theres no big achievements in my life.<br/><br/>
+
+My Favourite works are using smartphone,pc, watching football matches, learning exiting facts,quotes etc...<br/><br/>
+
+And my dislikes are whwnever, anyone giving me advises on the topic I know, etc...  <br/><br/>
+
+My favourite books are ;
+<ul type="square">
+<li>Recharge your down battery</li>
+<li>Paramoy life er paracitamol</li>
+<li>Habluder jonno programming</li>
+<li>Do what you are</li>
+<li>Doler naam black dragon</li>
+<li>Student Hacks</li>
+<li>The compound effect</li>
+</ul> etc... <br/><br/>
+My Favourite quotes :<br/><br/>
+"Work hard is silence. Let your success to be your noice."<br/>
+"Winners never quit and quitters never win."<br/>
+"Don't live 1 year 75 times or dont call it a life."<br/>
+"If oppourtunity dosen't knock,build a door."<br/>
+“Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers.” – Socrates<br/>
+"One day or day one. You decide."<br/>
+“Invest in your dreams. Grind now. Shine later.”<br/>
+“The hard days are what make you stronger.” <br/>
+"Keep your eyes on the stars, and your feet on the ground.”<br/>
+“You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction.”<br/>
+“Don’t say you don’t have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michelangelo, Mother Teresa, Leonardo Da Vinci, Thomas Jefferson, and Albert Einstein.”<br/>
+“Nothing will work unless you do.” <br/>
+“Don’t limit your challenges. Challenge your limits.” <br/>
+“Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.”<br/>
+and infinity!
+
+
+
+
+
+
+<body>
